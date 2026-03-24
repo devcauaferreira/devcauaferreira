@@ -1,7 +1,4 @@
 # Olá! 👋
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devcauaferreira&color=0A66C2" />
-</p>
 
 💻 Me chamo Cauã Ferreira Raphael  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
