@@ -1,16 +1,56 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**devcauaferreira/devcauaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Me chamo Cauã Ferreira Raphael  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🚀 Focado em desenvolvimento de software e evolução constante na área de tecnologia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou estudante de ADS, atualmente no 2º semestre, com interesse em desenvolvimento de software, lógica de programação e resolução de problemas.  
+Busco minha primeira oportunidade de estágio na área de tecnologia para aplicar meus conhecimentos na prática e continuar evoluindo.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+💡 Em aprendizado e prática com:
+
+- 💻 Lógica de Programação
+- 🌐 HTML, CSS e JavaScript
+- 🗄️ Banco de Dados (SQL)
+- ⚙️ Git e GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 Em breve adicionando projetos reais aqui...  
+
+---
+
+## 🎯 Objetivos
+
+- Conseguir um estágio em tecnologia  
+- Evoluir como desenvolvedor  
+- Construir projetos práticos e relevantes  
+
+---
+
+## 📫 Contato
+
+📧 SeuEmail@email.com  
+🔗 LinkedIn: https://linkedin.com/in/seu-link  
+
+---
+
+⭐ Sempre aprendendo e buscando evoluir!
