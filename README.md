@@ -26,9 +26,9 @@ Busco minha primeira oportunidade de estágio na área de tecnologia para aplica
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devcauaferreira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcauaferreira&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
