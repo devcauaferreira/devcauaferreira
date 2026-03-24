@@ -48,8 +48,8 @@ Busco minha primeira oportunidade de estágio na área de tecnologia para aplica
 
 ## 📫 Contato
 
-📧 SeuEmail@email.com  
-🔗 LinkedIn: https://linkedin.com/in/seu-link  
+📧 Email: dev.cauaferreira@email.com  
+🔗 LinkedIn: https://www.linkedin.com/in/caua-ferreira-raphael/ 
 
 ---
 
