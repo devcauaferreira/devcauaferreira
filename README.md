@@ -3,10 +3,10 @@
 💻 Me chamo Cauã Ferreira Raphael  
 <p align="center">
   <a href="https://www.linkedin.com/in/caua-ferreira-raphael/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:dev.cauaferreeira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
